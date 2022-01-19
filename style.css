@@ -1,3 +1,13 @@
+@font-face {
+    font-family: "Aeonik-Thin";
+    src: url("https://root-stone-x.github.io/site-elements/Aeonik-Thin.woff") format('woff');
+}
+
+@font-face {
+    font-family: "Aeonik-Medium";
+    src: url("https://root-stone-x.github.io/site-elements/Aeonik-Medium.woff") format('woff');
+}
+
 body {
     padding: 10vw;
     margin: 0;
