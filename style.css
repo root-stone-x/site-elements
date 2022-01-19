@@ -1,0 +1,47 @@
+        @font-face {
+            font-family: "Aeonik-Thin";
+            src: url("https://root-stone-x.github.io/site-elements/Aeonik-Thin.woff") format('woff');
+        }
+
+        @font-face {
+            font-family: "Aeonik-Medium";
+            src: url("https://root-stone-x.github.io/site-elements/Aeonik-Medium.woff") format('woff');
+        }
+
+        body {
+            padding: 10%;
+            margin: 0;
+            height: 100%;
+            width: 100%;
+            background: black;
+            color: white;
+            overflow: hidden;
+        }
+
+        div {
+            font-family: Aeonik-Thin;
+            font-weight: 100;
+            font-size: 1vw;
+            font-style: normal;
+            display: block;
+            justify-content: center;
+            align-items: center;
+            text-align: left;
+            line-height: 1;
+            padding: 0 2vw;
+
+        }
+
+        div>a {
+            font-family: Aeonik-Medium;
+            font-weight: 400;
+            color: white;
+            opacity: 1;
+            transition: .3s;
+            margin-bottom: 30px;
+        }
+
+        div>a:hover {
+            opacity: .4;
+            transition: .3s;
+        }
