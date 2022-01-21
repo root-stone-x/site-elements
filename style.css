@@ -50,6 +50,10 @@ a:hover {
     transition: .3s;
 }
 
+a:visited {
+  color: #9e91c7;
+}
+
 iframe {
     position: absolute;
     top: 0;
