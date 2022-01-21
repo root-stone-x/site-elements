@@ -11,23 +11,28 @@
 body {
     padding: 10vw;
     margin: 0;
-    height: 100%;
-    width: 100%;
+    height: auto;
+    width: auto;
     background: black;
     color: white;
-    overflow: hidden;
-}
-
-div {
+    overflow-x: hidden;
     font-family: Aeonik-Thin;
     font-weight: 100;
     font-size: 1vw;
     font-style: normal;
+}
+
+div {
     display: block;
-    justify-content: center;
-    align-items: center;
+    justify-content: flex-start;
+    align-items: flex-start;
     text-align: left;
     line-height: 1;
+}
+
+li {
+    float: left;
+    clear: left;
 }
 
 a {
@@ -43,6 +48,14 @@ a {
 a:hover {
     opacity: .4;
     transition: .3s;
+}
+
+iframe {
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 100%;
+    width: 65%;
 }
 
 /*Start of sorting filer element*/
