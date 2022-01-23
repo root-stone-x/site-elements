@@ -79,3 +79,15 @@ iframe {
 }
 
 /*End of sorting filer element*/
+
+/*Start of Approved (a) and Reviewing (r) statuses*/
+.a,.r {
+    display: inline-block;
+    width: 1.5em;
+    text-decoration: none;
+}
+
+.a {color: lawngreen;}
+.r {color: orange;}
+/*End of Approved (a) and Reviewing (r) statuses*/
+
