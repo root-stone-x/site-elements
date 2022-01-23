@@ -15,3 +15,11 @@
             }
         }
         
+        var approved = document.getElementsByClassName('a');
+        for (var i = 0; i < approved.length; i++) {
+            approved[i].setAttribute("title", "Approved");
+        }
+        var review = document.getElementsByClassName('r');
+        for (var i = 0; i < review.length; i++) {
+            review[i].setAttribute("title", "Reviewing");
+        }
