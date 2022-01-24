@@ -14,7 +14,7 @@
                 }
             }
         }
-        
+        /*Status changing according to class a (Approved) or r (Reviewing)*/
         var approved = document.getElementsByClassName('a');
         for (var i = 0; i < approved.length; i++) {
             approved[i].setAttribute("title", "Approved");
