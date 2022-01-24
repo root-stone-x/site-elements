@@ -42,7 +42,8 @@ a {
     opacity: 1;
     transition: .3s;
     margin-bottom: 30px;
-    display: block
+    display: block;
+    float: left;
 }
 
 a:hover {
@@ -80,14 +81,29 @@ iframe {
 
 /*End of sorting filer element*/
 
-/*Start of Approved (a) and Reviewing (r) statuses*/
-.a,.r {
+/*Start of Approved (a) and Reviewing (r) statuses and Download icon style*/
+.a,
+.r,
+.download-icon {
     display: inline-block;
     width: 1.5em;
     text-decoration: none;
 }
 
-.a {color: lawngreen;}
-.r {color: orange;}
+}
+
+.r {
+    color: orange;
+}
+
+.a {
+    color: lawngreen;
+}
+
+.download-icon {
+    color: dimgrey;
+    transform: rotate(180deg);
+    cursor: pointer;
+}
 /*End of Approved (a) and Reviewing (r) statuses*/
 
