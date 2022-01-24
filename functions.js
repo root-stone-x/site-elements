@@ -23,3 +23,7 @@
         for (var i = 0; i < review.length; i++) {
             review[i].setAttribute("title", "Reviewing");
         }
+        var downloadIcon = document.getElementsByClassName('download-icon');
+        for (var i = 0; i < downloadIcon.length; i++) {
+            downloadIcon[i].setAttribute("title", "Download .zip folder");
+        }
