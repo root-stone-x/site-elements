@@ -52,7 +52,7 @@ a:hover {
 }
 
 a:visited {
-  color: #9e91c7;
+    color: #9e91c7;
 }
 
 iframe {
@@ -81,29 +81,24 @@ iframe {
 
 /*End of sorting filer element*/
 
-/*Start of Approved (a) and Reviewing (r) statuses and Download icon style*/
+/*Start of Approved (a), Reviewing (r), Hold (h) statuses and Download icon style*/
 .a,
 .r,
+.h,
 .download-icon {
     display: inline-block;
     width: 1.5em;
     text-decoration: none;
 }
 
-}
-
-.r {
-    color: orange;
-}
-
-.a {
-    color: lawngreen;
-}
+.a {color: lawngreen;}
+.r {color: orange;}
+.h {color: red;}
 
 .download-icon {
     color: dimgrey;
     transform: rotate(180deg);
     cursor: pointer;
 }
-/*End of Approved (a) and Reviewing (r) statuses*/
 
+/*End of Approved (a) and Reviewing (r) statuses*/
