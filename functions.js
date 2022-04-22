@@ -23,6 +23,10 @@
         for (var i = 0; i < review.length; i++) {
             review[i].setAttribute("title", "Reviewing");
         }
+        var review = document.getElementsByClassName('h');
+        for (var i = 0; i < review.length; i++) {
+            review[i].setAttribute("title", "On hold");
+        }
         var downloadIcon = document.getElementsByClassName('download-icon');
         for (var i = 0; i < downloadIcon.length; i++) {
             downloadIcon[i].setAttribute("title", "Download .zip folder");
