@@ -25,6 +25,18 @@ It's important to name the files with the region's suffix from the drop-down men
 - CISG (Singapore)
 - CIUK (United Kingdom)
 
+Like shown in thepicture below, choose the region from the drop-down menu, place the work name and copy the file name from the cell.
+
+<img src="https://github.com/root-stone-x/site-elements/blob/5f748a3606a6b0de1cdc36b43b2389bb8c950931/readme-imgs/readme-img-002.png" width="600" title="Bannerify export settings">
+
+# Placing the file in the GitHub repository
+Once the file is properly named, must be unzeipped and the two subfolders *_backups* and *_zips* must be deleted. You will now have the .zip file and the folder with the same name; these two are now ready to be placed in the GitHub folder and pushed to the repository.
+
+Copy and paste the two elements (.zip folder and unzipped folder) into the correct region region. In case you are updating an existing banner set, just replace the files.
+
+Once the files are replaced, write a minimal description of the change and hit 
+
+
 
 
 
