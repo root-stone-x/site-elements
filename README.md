@@ -34,14 +34,17 @@ Once the file is properly named, must be unzeipped and the two subfolders *_back
 
 Copy and paste the two elements (.zip folder and unzipped folder) into the correct region region. In case you are updating an existing banner set, just replace the files.
 
-Once the files are replaced, write a minimal description of the change and hit 
+Once the files are replaced, write a minimal description of the change and hit --> *Commit to* ***main*** as shown below
 
+<img src="https://github.com/root-stone-x/site-elements/blob/fd866e978a3aa350060e6d9570df3bf0233c76a8/readme-imgs/readme-img-003.png" width="600" title="Bannerify export settings">
 
+After that you need to upload the changes and hit --> *Push origin*, as in the picture below.
 
+<img src="https://github.com/root-stone-x/site-elements/blob/fd866e978a3aa350060e6d9570df3bf0233c76a8/readme-imgs/readme-img-004.jpg" width="600" title="Bannerify export settings">
 
+If no errors have occurred, all the files are uploaded. 
 
-
-
+> Note: the GitHub servers take on average five minutes to update.
 
 
 
