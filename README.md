@@ -62,16 +62,16 @@ Log in Netlify, select the site --> *web-banners-home* and follow the instructio
 
 Once you have the static website, use [Brackets](https://brackets.io) (or any HTML editor) to copy the Ginormous link/s automatically generated in the [Excel link generator](https://intlfcstone.sharepoint.com/:x:/s/CityIndexRebrand/EbK-k6lUFdtKtb8AS6dX6_QBj3VcHnAyWxJ1VsX6U9236Q?e=sADceO), paste it/them in the region's HTML page.
 
+Save the HTML file. The 'general-site' folder is now ready to be deployed on [Netlify](https://www.netlify.com). 
 
+Drag & drop the 'general-site' folder into the --> *Deploy* tab in Netlify.
 
+<img src="https://github.com/root-stone-x/site-elements/blob/d96a620fa1c782e7bfef5301057f722b66bacad2/readme-imgs/readme-img-006.png" width="600" title="Bannerify export settings">
 
-
-
-
-
-  
-  
-
-
+# Testing
+The banners and the site should be up and running. As mentioned before, wait about five minutes for the servers to update; sometimes may take more. If it takes too long, the most common issues are:
+- The Deltas of GitHub didn't resolve; this problem occours often when the delivery load is too big. The problem is related to the single file sizes being too large and too many files; yes, GitHub has some trouble uploading too many individual files.
+- Clear the browser cache and reload the banners.
+- Will sound mundande, but still worth to mention, you likely uploaded the wrong files. Easy fix.
 
 
