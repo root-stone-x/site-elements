@@ -13,6 +13,10 @@ The platforms used are:
 - [GitHub Desktop](https://desktop.github.com) (to upload the banners on the server)
 - [Excel link generator](https://intlfcstone.sharepoint.com/:x:/s/CityIndexRebrand/EbK-k6lUFdtKtb8AS6dX6_QBj3VcHnAyWxJ1VsX6U9236Q?e=sADceO) (a specific file to generate the links for the banners)
 - [Brackets](https://brackets.io) (or any HTML editor to add the new links)
+<br/><br/>
+<img src="https://github.com/root-stone-x/site-elements/blob/47ca7f6bdc8a42f240ed86956142de1cd615014c/readme-imgs/site-pipeline-v3.png" width="2000" title="Bannerify export settings">
+
+> Here above, a diagram of the pipeline.
 
 # Exporting from Bannerify
 
