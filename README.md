@@ -20,7 +20,7 @@ Export the .zip file from Figma using these settings:
 
 <img src="https://github.com/root-stone-x/site-elements/blob/c3b0e97bf1d43d3e68897d1cf8e4044a3d02294f/readme-imgs/readme-img-001.png" width="600" title="Bannerify export settings">
 
-> *Note: the .webp image format is not supported, and you can play around with the tagret file-size limit according to the final result.*
+> *Note: the .webp image format is not supported, and you can play around with the target file-size limit according to the final result.*
 
 # Naming the file
 
@@ -70,8 +70,6 @@ Drag & drop the 'general-site' folder into the --> *Deploy* tab in Netlify.
 
 # Testing
 The banners and the site should be up and running. As mentioned before, wait about five minutes for the servers to update; sometimes may take more. If it takes too long, the most common issues are:
-- The Deltas of GitHub didn't resolve; this problem occours often when the delivery load is too big. The problem is related to the single file sizes being too large and too many files; yes, GitHub has some trouble uploading too many individual files.
+- The Deltas of GitHub didn't resolve; this problem often occurs when the delivery load is too big. The problem is related to the single file sizes being too large and too many files; yes, GitHub has some trouble uploading too many individual files.
 - Clear the browser cache and reload the banners.
-- Will sound mundande, but still worth to mention, you likely uploaded the wrong files. Easy fix.
-
-
+- Will sound mundane but still worth mentioning that you likely uploaded the wrong files. Easy fix.
