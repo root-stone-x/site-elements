@@ -2,7 +2,7 @@
 
 # How to properly use the Display Banner system
 
-In this short guide, I'll explain the process of uploading ad taking proper care of the display banner's web visualization.
+In this short guide, I'll explain the process of uploading the display banner's web visualization.
 
 The platforms used will be:
 
