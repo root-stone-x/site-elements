@@ -58,7 +58,7 @@ If no errors have occurred, all the files are uploaded.
 # Updating the web page
 Assuming you don't have the offline static website, let's get it from Netlify. 
 
-Log in Netlify, select the site --> *web-banners-home* and follow the instruction of [this video](https://www.youtube.com/watch?v=G51nwe0vWNQ).
+Log in Netlify, select the site named --> *web-banners-home* and follow the instruction of [this video](https://www.youtube.com/watch?v=G51nwe0vWNQ).
 
 Once you have the static website, use [Brackets](https://brackets.io) (or any HTML editor) to copy the Ginormous link/s automatically generated in the [Excel link generator](https://intlfcstone.sharepoint.com/:x:/s/CityIndexRebrand/EbK-k6lUFdtKtb8AS6dX6_QBj3VcHnAyWxJ1VsX6U9236Q?e=sADceO), paste it/them in the region's HTML page.
 
