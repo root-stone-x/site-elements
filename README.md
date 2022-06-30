@@ -4,7 +4,7 @@
 
 In this short guide, I'll explain the process of uploading the display banner's web visualization.
 
-The platforms used will be:
+The platforms used are:
 
 - [Figma](https://www.figma.com) (to create the banners)
 - [Bannerify](https://www.figma.com/community/plugin/796124491692147799/Bannerify-Banner-Studio) (plugin for Figma, to export the banners)
