@@ -14,7 +14,7 @@ The platforms used are:
 - [Excel link generator](https://intlfcstone.sharepoint.com/:x:/s/CityIndexRebrand/EbK-k6lUFdtKtb8AS6dX6_QBj3VcHnAyWxJ1VsX6U9236Q?e=sADceO) (a specific file to generate the links for the banners)
 - [Brackets](https://brackets.io) (or any HTML editor to add the new links)
 <br/><br/>
-<img src="https://github.com/root-stone-x/site-elements/blob/47ca7f6bdc8a42f240ed86956142de1cd615014c/readme-imgs/site-pipeline-v3.png" width="2000" title="Bannerify export settings">
+<img src="https://github.com/root-stone-x/site-elements/blob/d34e94156a6ffbadf3599ef4eda4d6fe70af3a2c/readme-imgs/site-pipeline-v3.png" width="2000" title="Bannerify export settings">
 
 > Here above, a diagram of the pipeline.
 
@@ -35,7 +35,7 @@ Once exported, the .zip file from Bannerify needs to be named. I've created [thi
 
 It's fundamental to name the files with the region's suffix from the drop-down menu on the Excel file.
 
-As shown in the picture below, choose the region from the drop-down menu, place the working name and copy the file name from the cell.
+As shown in the picture below, choose the region from the drop-down menu, place the working name and copy the file name from the cell "file name".
 
 <img src="https://github.com/root-stone-x/site-elements/blob/5f748a3606a6b0de1cdc36b43b2389bb8c950931/readme-imgs/readme-img-002.png" width="600" title="Bannerify export settings">
 
