@@ -74,6 +74,6 @@ Drag & drop the 'general-site' folder into the --> *Deploy* tab in Netlify.
 
 # Testing
 The banners and the site should be up and running. As mentioned before, wait about five minutes for the servers to update; sometimes may take more. If it takes too long, the most common issues are:
-- The Deltas of GitHub didn't resolve; this problem often occurs when the delivery load is too big. The problem is related to the single file sizes being too large and too many files; yes, GitHub has some trouble uploading too many individual files.
+- The Deltas of GitHub didn't resolve; this problem often occurs when the delivery load is too big. The problem is related to the single file sizes being either too large or too many files are being uploaded at once.
 - Clear the browser cache and reload the banners.
 - Will sound mundane but still worth mentioning that you likely uploaded the wrong files. Easy fix.
