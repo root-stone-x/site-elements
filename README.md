@@ -14,7 +14,7 @@ The platforms used are:
 - [Excel link generator](https://intlfcstone.sharepoint.com/:x:/s/CityIndexRebrand/EbK-k6lUFdtKtb8AS6dX6_QBj3VcHnAyWxJ1VsX6U9236Q?e=sADceO) (a specific file to generate the links for the banners)
 - [Brackets](https://brackets.io) (or any HTML editor to add the new links)
 <br/><br/>
-<img src="https://github.com/root-stone-x/site-elements/blob/d34e94156a6ffbadf3599ef4eda4d6fe70af3a2c/readme-imgs/site-pipeline-v3.png" width="2000" title="Bannerify export settings">
+<img src="https://github.com/root-stone-x/site-elements/blob/6d01bfb85853bdb872e10ff61aacb0acb32b8c9a/readme-imgs/site-pipeline-v4.png" width="2000" title="Bannerify export settings">
 
 > Here above, a diagram of the pipeline.
 
