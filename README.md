@@ -24,7 +24,7 @@ Export the .zip file from Figma using these settings:
 
 <img src="https://github.com/root-stone-x/site-elements/blob/c3b0e97bf1d43d3e68897d1cf8e4044a3d02294f/readme-imgs/readme-img-001.png" width="600" title="Bannerify export settings">
 
-> *Note: the .webp image format is not supported, and you can play around with the target file-size limit according to the final result.*
+> *Note: the .webp image format is not supported, and you can play around with the target file-size limit according to the final result. If you have pictures with smooth aplha feather, I reccomend not to use any compression.*
 
 # Naming the file
 
