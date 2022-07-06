@@ -39,7 +39,7 @@ As shown in the picture below, choose the region from the drop-down menu, place 
 
 <img src="https://github.com/root-stone-x/site-elements/blob/5f748a3606a6b0de1cdc36b43b2389bb8c950931/readme-imgs/readme-img-002.png" width="600" title="Bannerify export settings">
 
-> *Note: if no region is selected, 'UK' will be attributed by default.* 
+> *Note: if no region is selected, 'UK' will be attributed by default, but will reflect only in the file name and the link will be broken.* 
 
 Once the file is named, unzip it, and delete the two subfolders *_backups* and *_zips*. You will now have the .zip file and the folder with the same name; these two are ready to be placed in the GitHub folder and pushed to the repository.
 
