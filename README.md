@@ -43,7 +43,7 @@ As shown in the picture below, choose the region from the drop-down menu, place 
 
 Once the file is named, unzip it, and delete the two subfolders *_backups* and *_zips*. You will now have the .zip file and the folder with the same name; these two are ready to be placed in the GitHub folder and pushed to the repository.
 
-# Placing the file in the GitHub repository
+# Pushing the file in the GitHub repository
 
 Copy and paste the two elements (.zip folder and unzipped folder) into the correct region. Replace the files if updating an existing set of banners.
 
