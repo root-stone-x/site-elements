@@ -1,4 +1,4 @@
-> *Note: because these instructions have public access, no log-in detail will be disclosed. For that, please get in touch with: jacob.wyatt@stonex.com*
+> *Note: because these instructions have public access, no log-in detail will be disclosed.*
 
 # How to properly use the Display Banner system
 
